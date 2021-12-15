@@ -3,7 +3,7 @@
 #### Dataset : https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
 
 ##### Abstract: 
-The SMS Spam Collection is a public set of SMS labeled messages that have been collected for mobile phone spam research.
+The SMS Spam Collection is a public set of 5574 SMS labeled messages that have been collected for mobile phone spam research.
 
 ##### Data Set Information:
 This corpus has been collected from free or free for research sources at the Internet:
@@ -14,5 +14,5 @@ This corpus has been collected from free or free for research sources at the Int
 
 -> A list of 450 SMS ham messages collected from Caroline Tag's PhD Thesis available at [Web Link].
 
--> Finally, we have incorporated the SMS Spam Corpus v.0.1 Big. It has 1,002 SMS ham messages and 322 spam messages and it is public available at: [Web Link].
+-> Finally, have incorporated the SMS Spam Corpus v.0.1 Big. It has 1,002 SMS ham messages and 322 spam messages and it is public available at: [Web Link].
 
