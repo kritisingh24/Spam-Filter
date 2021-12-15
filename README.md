@@ -1,7 +1,7 @@
 # Spam-Filter
 
-## Dataset : https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
-### Data Set Information:
+### Dataset : https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+#### Data Set Information:
 
 This corpus has been collected from free or free for research sources at the Internet:
 
