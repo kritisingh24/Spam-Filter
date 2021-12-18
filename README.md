@@ -24,7 +24,15 @@ This corpus has been collected from free or free for research sources at the Int
 5. Tune hyperparameters and evaluate with GridSearchCV.
 6. Final model selection.
 
-##### Maetrics used:
+
+##### Model evaluated:
+-> Random Forest
+
+-> Gradient Boosting
+
+##### Metrics used:
 -> Accuracy : #predicted correctly / total number of observations
+
 -> Precision : # predicted as spam that are actually spam / total # predicted as spam
+
 -> Recall : # predicted as spam that are actually spam / total # that are actually spam
