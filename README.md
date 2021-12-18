@@ -16,3 +16,10 @@ This corpus has been collected from free or free for research sources at the Int
 
 -> Finally, have incorporated the SMS Spam Corpus v.0.1 Big. It has 1,002 SMS ham messages and 322 spam messages and it is public available.
 
+##### Machine Learning Pipeline:
+1. Read in raw text.
+2. Pre-processing the dataset.
+3. Feature engineering.
+4. Fit simple model.
+5. Tune hyperparameters and evaluate with GridSearchCV.
+6. Final model selection.
