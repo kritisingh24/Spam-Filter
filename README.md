@@ -30,6 +30,7 @@ This corpus has been collected from free or free for research sources at the Int
 
 -> Gradient Boosting
 
+-> XGBoost
 ##### Metrics used:
 -> Accuracy : #predicted correctly / total number of observations
 
