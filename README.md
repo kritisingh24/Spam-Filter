@@ -39,4 +39,4 @@ This corpus has been collected from free or free for research sources at the Int
 -> Recall : # predicted as spam that are actually spam / total # that are actually spam
 
 ##### Metrics used:
-The best result is achieved by Random Forest Model with Precision: 0.964 / Recall: 0.865 / Accuracy: 0.977
+The best result is achieved by Random Forest Model with Precision: 96.40% / Recall: 86.50% / Accuracy: 97.70%
